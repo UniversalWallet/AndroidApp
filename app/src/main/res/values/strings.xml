@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UniversalWallet</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="main_tabs_names">
+        <item>Кошельки</item>
+        <item>Билеты</item>
+        <item>Новости</item>
+        <item>Уведомления</item>
+    </string-array>
+
+    <string name="reddit_api">https://www.reddit.com/</string>
+
+    <!-- For intents -->
+    <string name="name">Name</string>
+    <string name="url">URL</string>
+
+    <string name="title_activity_alt_coin_info">AltCoinInfo</string>
+
+</resources>
